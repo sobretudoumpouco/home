@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<!--
-	Future Imperfect by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
 	<head>
 		<title>Sobre Tudo Um Pouco - Marketing Digital</title>
 		<meta charset="utf-8" />
@@ -21,69 +14,7 @@
 
 		
 	</head>
-	<body class="is-preload">
-
-		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Header -->
-					<header id="header">
-						<h1><a href="index.html">Sobre Tudo Um Pouco</a></h1>
-						<nav class="links">
-							<ul>
-								<li><a href="index.html">Principal</a></li>
-								<li><a href="sobre-nos.html">Sobre Nós</a></li>
-								<li><a href="politica-de-privacidade.html">Política de Privacidade</a></li>
-								</ul>
-						</nav>
-						<nav class="main">
-							<ul>
-								<li class="menu">
-									<a class="fa-bars" href="#menu">Menu</a>
-								</li>
-							</ul>
-						</nav>
-					</header>
-
-				<!-- Menu -->
-					<section id="menu">
-
-						<!-- Links -->
-							<section>
-								<ul class="links">
-									<li>
-										<a href="/">
-											<h3>Principal</h3>
-											<p>Acessar página principal</p>
-										</a>
-									</li>
-									<li>
-										<a href="/sobre-nos">
-											<h3>Sobre Nós</h3>
-											<p>Conheça a Nossa Comunidade</p>
-										</a>
-									</li>
-									<li>
-										<a href="/politica-de-privacidade">
-											<h3>Política de Privacidade</h3>
-											<p>Conheça Nossa Política de Privacidade</p>
-										</a>
-									</li>
-								</ul>
-							</section>
-
-						<!-- Actions -->
-							<section>
-								<ul class="actions stacked">
-									<li><a href="https://sobretudoumpouco.info/" class="button large fit">Visitar Site</a></li>
-								</ul>
-							</section>
-
-					</section>
-
-				<!-- Main -->
-					<div id="main">
-
+	
 						<!-- Post -->
 							<article class="post">
 								<header>
