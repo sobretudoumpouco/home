@@ -25,12 +25,7 @@
 								</header>
 								<a href="https://sobretudoumpouco.info/marketing/a-importancia-do-marketing-digital-para-donos-de-restaurantes/" class="image featured"><img src="https://sobretudoumpouco.info/wp-content/uploads/2021/05/Negocio-de-Refeicoes-768x461.jpg" alt="A importância do Marketing Digital Para Donos de Restaurantes" /></a>
 								<p>Todo proprietário de restaurante deve estar familiarizado com os princípios básicos do marketing. Porque mesmo que os clientes cheguem em grande número nos principais dias da semana, isso não significa que permanecerá assim.</p>
-								<footer>
-									<ul class="actions">
-										<li><a href="https://sobretudoumpouco.info/marketing/a-importancia-do-marketing-digital-para-donos-de-restaurantes/" class="button large">Continue Lendo</a></li>
-									</ul>
-									
-								</footer>
+								
 							</article>
 
 						<!-- Post -->
