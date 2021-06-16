@@ -38,12 +38,7 @@
 								</header>
 								<a href="https://sobretudoumpouco.info/marketing/9-dicas-de-marketing-digital-para-delivery/" class="image featured"><img src="https://sobretudoumpouco.info/wp-content/uploads/2021/05/Dicas-de-Marketing-Digital-Para-Delivery-768x489.jpg" alt="Dicas de Marketing Digital Para Delivery" /></a>
 								<p>Ao longo dos anos, a indústria alimentícia mudou drasticamente com a ajuda de novas normas sociais, tecnologia e marketing. Com mais restaurantes oferecendo serviços de entrega, esta é agora a norma para os clientes; comer se tornou uma atividade ocasional.</p>
-								<footer>
-									<ul class="actions">
-										<li><a href="https://sobretudoumpouco.info/marketing/9-dicas-de-marketing-digital-para-delivery/" class="button large">Continue Lendo</a></li>
-									</ul>
-									
-								</footer>
+								
 							</article>
 
 						<!-- Post -->
@@ -56,12 +51,7 @@
 								</header>
 								<a href="https://contatosobretudoum.wixsite.com/blog/post/diferen%C3%A7as-entre-marketing-e-publicidade" class="image featured"><img src="https://static.wixstatic.com/media/704b9ad6a6d84fbb9b2292428bdafb2d.jpg/v1/fill/w_740,h_493,al_c,q_90/704b9ad6a6d84fbb9b2292428bdafb2d.webp" alt="Diferenças Entre Marketing e Publicidade" /></a>
 								<p>Marketing e Publicidade, embora pareçam semelhantes, na realidade não são. A publicidade é apenas uma parte do jogo maior chamado Marketing. O marketing engloba a conceituação completa de uma marca, desde a pesquisa até o design e a propaganda até a venda.</p>
-								<footer>
-									<ul class="actions">
-										<li><a href="https://contatosobretudoum.wixsite.com/blog/post/diferen%C3%A7as-entre-marketing-e-publicidade" class="button large">Continue Lendo</a></li>
-									</ul>
-									
-								</footer>
+								
 							</article>
 
 							<!-- Post -->
@@ -74,22 +64,10 @@
 								</header>
 								<a href="https://sobre-tudo-um-pouco.myfreesites.net/blog/publicacao/565280/tudo-sobre-search-engine-optimization" class="image featured"><img src="https://1.bp.blogspot.com/-8TfjpFciJME/YKZqu4uOFKI/AAAAAAAAAEM/5kZKfZk38pAfh43FhOEUnrvCLVCS0X3qgCLcBGAsYHQ/w640-h390/Otimiza%25C3%25A7%25C3%25A3o%2Bde%2BMecanismos%2Bde%2BPesquisa%2Be%2BPublicidade.jpg" alt="Tudo Sobre Search Engine Optimization" /></a>
 								<p>SEO significa “otimização do mecanismo de pesquisa”. Em termos simples, significa o processo de melhorar seu site para aumentar sua visibilidade para pesquisas relevantes. Quanto melhor a visibilidade de suas páginas nos resultados de pesquisa, maior a probabilidade de você chamar a atenção e atrair clientes existentes e em potencial para sua empresa.</p>
-								<footer>
-									<ul class="actions">
-										<li><a href="https://sobre-tudo-um-pouco.myfreesites.net/blog/publicacao/565280/tudo-sobre-search-engine-optimization" class="button large">Continue Lendo</a></li>
-									</ul>
-									
-								</footer>
+								
 							</article>
 
-						<!-- Pagination -->
-							<ul class="actions pagination">
-								<li><a href="" class="disabled button large previous">Página Anterior</a></li>
-								<li><a href="pagina-2.html" class="button large next">Proxíma Página</a></li>
-							</ul>
-
-					</div>
-
+						
 				<!-- Sidebar -->
 					<section id="sidebar">
 
