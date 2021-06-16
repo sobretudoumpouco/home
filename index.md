@@ -1,20 +1,3 @@
-	<head>
-		<title>Sobre Tudo Um Pouco - Marketing Digital</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-		
-		<meta name="robots" content="index, follow">
-<link rel="canonical" href="https://sobretudoumpouco.info">
-<meta name="viewport" content="initial-scale=1">
-<meta name="description" content="Sobre Tudo Um Pouco. Marketing Digital, Artigos de Qualidade. Serviço de SEO, Criação de Backlinks de Qualidade.">
-
-<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://sobretudoumpouco.info","name":"Sobre Tudo Um Pouco","url":"https://sobretudoumpouco.info","sameAs":["https://sobretudoumpouco-br.blogspot.com","https://sobretudoumpoucobr.wordpress.com","https://sobretudoumpouco-blog.tumblr.com"],"logo":{"@type":"ImageObject","@id":"https://sobretudoumpouco.info/#logo","url":"https://sobretudoumpouco.info","width":377,"height":182,"caption":"Sobre Tudo Um Pouco"},"image":{"@id":"https://sobretudoumpouco.info/#logo"}},{"@type":"WebSite","@id":"https://sobretudoumpouco.info/#website","url":"https://sobretudoumpouco.info/","name":"Sobre Tudo Um Pouco","publisher":{"@id":"https://sobretudoumpouco.info/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://sobretudoumpouco.info/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://sobretudoumpouco.info/#webpage","url":"https://sobretudoumpouco.info","inLanguage":"pt-BR","name":"REVOLUCION\u00c1RIO Sobre Tudo Um Pouco - Marketing Digital","isPartOf":{"@id":"https://sobretudoumpouco.info/"},"about":{"@id":"https://sobretudoumpouco.info/"},"datePublished":"2021-05-10T17:54:22+00:00","dateModified":"2021-05-13T13:01:06+00:00","description":"Sobre Tudo Um Pouco. Marketing Digital, Artigos de Qualidade. Serviço de SEO, Criação de Backlinks de Qualidade."}]}</script>
-
-		
-	</head>
-	
 						<!-- Post -->
 							<article class="post">
 								<header>
