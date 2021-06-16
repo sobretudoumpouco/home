@@ -1,3 +1,89 @@
+<!DOCTYPE HTML>
+<!--
+	Future Imperfect by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Sobre Tudo Um Pouco - Marketing Digital</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		
+		<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://sobretudoumpouco.info">
+<meta name="viewport" content="initial-scale=1">
+<meta name="description" content="Sobre Tudo Um Pouco. Marketing Digital, Artigos de Qualidade. Serviço de SEO, Criação de Backlinks de Qualidade.">
+
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://sobretudoumpouco.info","name":"Sobre Tudo Um Pouco","url":"https://sobretudoumpouco.info","sameAs":["https://sobretudoumpouco-br.blogspot.com","https://sobretudoumpoucobr.wordpress.com","https://sobretudoumpouco-blog.tumblr.com"],"logo":{"@type":"ImageObject","@id":"https://sobretudoumpouco.info/#logo","url":"https://sobretudoumpouco.info","width":377,"height":182,"caption":"Sobre Tudo Um Pouco"},"image":{"@id":"https://sobretudoumpouco.info/#logo"}},{"@type":"WebSite","@id":"https://sobretudoumpouco.info/#website","url":"https://sobretudoumpouco.info/","name":"Sobre Tudo Um Pouco","publisher":{"@id":"https://sobretudoumpouco.info/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://sobretudoumpouco.info/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://sobretudoumpouco.info/#webpage","url":"https://sobretudoumpouco.info","inLanguage":"pt-BR","name":"REVOLUCION\u00c1RIO Sobre Tudo Um Pouco - Marketing Digital","isPartOf":{"@id":"https://sobretudoumpouco.info/"},"about":{"@id":"https://sobretudoumpouco.info/"},"datePublished":"2021-05-10T17:54:22+00:00","dateModified":"2021-05-13T13:01:06+00:00","description":"Sobre Tudo Um Pouco. Marketing Digital, Artigos de Qualidade. Serviço de SEO, Criação de Backlinks de Qualidade."}]}</script>
+
+		
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">Sobre Tudo Um Pouco</a></h1>
+						<nav class="links">
+							<ul>
+								<li><a href="index.html">Principal</a></li>
+								<li><a href="sobre-nos.html">Sobre Nós</a></li>
+								<li><a href="politica-de-privacidade.html">Política de Privacidade</a></li>
+								</ul>
+						</nav>
+						<nav class="main">
+							<ul>
+								<li class="menu">
+									<a class="fa-bars" href="#menu">Menu</a>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<section id="menu">
+
+						<!-- Links -->
+							<section>
+								<ul class="links">
+									<li>
+										<a href="/">
+											<h3>Principal</h3>
+											<p>Acessar página principal</p>
+										</a>
+									</li>
+									<li>
+										<a href="/sobre-nos">
+											<h3>Sobre Nós</h3>
+											<p>Conheça a Nossa Comunidade</p>
+										</a>
+									</li>
+									<li>
+										<a href="/politica-de-privacidade">
+											<h3>Política de Privacidade</h3>
+											<p>Conheça Nossa Política de Privacidade</p>
+										</a>
+									</li>
+								</ul>
+							</section>
+
+						<!-- Actions -->
+							<section>
+								<ul class="actions stacked">
+									<li><a href="https://sobretudoumpouco.info/" class="button large fit">Visitar Site</a></li>
+								</ul>
+							</section>
+
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
 						<!-- Post -->
 							<article class="post">
 								<header>
